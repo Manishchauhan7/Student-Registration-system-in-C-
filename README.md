@@ -15,4 +15,4 @@
  ## Techstack 💻💻💻💻💻
 
  ![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c++&logoColor=61DAFB)
- ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB)
+ 
